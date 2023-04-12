@@ -10,6 +10,9 @@
     }
 </script>
 
-<style lang="scss" scoped>
-
+<style lang="css" scoped>
+    h1{
+        text-align: center;
+        padding: 1rem;
+    }
 </style>
